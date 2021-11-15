@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OlivianStanciu
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning microservices architecture
+<!-- - 🌱 I’m currently learning microservices architecture --->
 
 <!---
 - 💞️ I’m looking to collaborate on ...
