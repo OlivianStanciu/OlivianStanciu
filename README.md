@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OlivianStanciu
+- 👋 Hi, I’m Olivian
 - 👀 I’m interested in Software Development
 <!-- - 🌱 I’m currently learning microservices architecture --->
 
