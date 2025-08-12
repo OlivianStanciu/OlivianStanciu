@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Olivian
-- 👀 I’m interested in aoftware engineering at scale.
+- 👀 I’m interested in software engineering at scale.
 <!-- - 🌱 I’m currently learning microservices architecture --->
 
 <!---
